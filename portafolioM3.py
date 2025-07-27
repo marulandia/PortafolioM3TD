@@ -113,10 +113,10 @@ def usar_hilo():
     else:
         print("Ese hilo no está en el inventario.")
 
-#Cuándo ya tengo un patrón desterminado, con esta función puedo comprobar si tengo todos los hilos necesarios para un patrón.
+#Cuándo ya tengo un patrón desterminad cargada en [inventario], con esta función puedo comprobar si tengo todos los hilos necesarios para un patrón.
 def verificar_patron():
     print("\nVerificación de patrón")
-    print("Ingrese los códigos del patrón separados por coma (ej. 310,321,415):")
+    print("Ingrese los códigos de los hilos actuales separados por coma (ej. 310,321,415):")
     codigos = input("👉 ").split(",")
 
     faltantes = []
