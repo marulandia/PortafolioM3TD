@@ -1,5 +1,3 @@
-Aquí tienes un **README.md** sencillo y claro para tu portafolio:
-
 # Inventario de Hilos para Bordado
 
 Descripción
